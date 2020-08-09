@@ -1,0 +1,2 @@
+# Aakriti-Aggarwal
+Lexical scoping
